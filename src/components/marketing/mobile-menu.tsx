@@ -46,10 +46,7 @@ const MobileMenu = ({ isOpen, setIsOpen }: Props) => {
                         onClick={() => setIsOpen(false)}
                         className="w-full px-4 py-2 text-lg hover:text-muted-foreground font-normal transition transform rounded-md cursor-pointer text-foreground text-start active:scale-95 hover:bg-muted/20 active:opacity-80"
                     >
-                        <Link href="/how-it-works" className="flex items-center w-full text-start">
-                            <UserCog className="w-4 h-4 mr-2" />
-                            How it works
-                        </Link>
+                    
                     </li>
                     <Accordion type="single" collapsible className="w-full">
                         <AccordionItem value="item-1" className="border-transparent">

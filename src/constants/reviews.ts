@@ -7,8 +7,8 @@ type REVIEW = {
 
 export const REVIEWS: REVIEW[] = [
     {
-        name: "Arjun Singh",
-        username: "@arjunsingh",
+        name: "Ronnakrit",
+        username: "@ronnakrit",
         review: "This platform has revolutionized the way I manage my projects. The AI tools are a game-changer!",
         img: "https://randomuser.me/api/portraits/men/1.jpg"
     },
