@@ -16,7 +16,7 @@ import {
     ChartTooltip,
     ChartTooltipContent,
 } from "@/components/ui/chart"
-import { Container } from "@/components";
+import { Container } from "@/components/index";
 
 const chartConfig = {
     reach: {

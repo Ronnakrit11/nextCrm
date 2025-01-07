@@ -1,3 +1,4 @@
+//index.ts
 import Icons from "./global/icons";
 import Images from "./global/images";
 import Wrapper from "./global/wrapper";
@@ -39,3 +40,23 @@ export {
     SignUpForm,
     Providers,
 };
+export default {
+    Icons,
+    Images,
+    Wrapper,
+    Container,
+    Background,
+    Hero,
+    Navbar,
+    Companies,
+    Features,
+    Connect,
+    Perks,
+    Pricing,
+    Reviews,
+    CTA,
+    Footer,
+    SignInForm,
+    SignUpForm,
+    Providers,
+}

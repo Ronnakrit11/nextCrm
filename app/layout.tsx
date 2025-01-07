@@ -2,8 +2,7 @@ import "@/styles/globals.css";
 import { cn, generateMetadata } from "@/functions";
 import { inter, satoshi } from "@/constants";
 import { Toaster } from "@/components/ui/sonner";
-import { Providers } from "@/components";
-
+import { Providers } from "@/components/index";
 export const metadata = generateMetadata();
 
 export default function RootLayout({

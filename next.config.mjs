@@ -7,7 +7,12 @@ const nextConfig = {
                 hostname: "randomuser.me"
             }
         ]
-    }
+    },
+    experimental: {
+        reactRoot: true,
+        suppressHydrationWarning: true,
+        serverActions: true,
+    },
 };
 
 export default nextConfig;

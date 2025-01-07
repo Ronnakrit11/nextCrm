@@ -1,4 +1,4 @@
-import { Icons } from "@/components";
+import { Icons } from "@/components/index";
 import { ZapIcon, ChartSplineIcon, LifeBuoyIcon, PaletteIcon, ShieldCheckIcon, WaypointsIcon, BrainCircuitIcon, SparklesIcon } from "lucide-react";
 import React from "react";
 
